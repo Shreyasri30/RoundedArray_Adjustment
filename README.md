@@ -36,6 +36,6 @@ This Python script processes a nested list of numbers, rounds them to the neares
 ## Installation
 
 ### Prerequisites
-- Python 3.x installed
+- Python 3.13 installed
 - JSON file containing numbers (optional)
 
